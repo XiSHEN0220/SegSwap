@@ -1,0 +1,1 @@
+python MainHardMining.py --batch-pos 5 --batch-neg 15 --batch-hard-neg 5 --warp-mask --resume-pth MODEL_PATH --out-dir pos5neg15hard5 --gpu 0
