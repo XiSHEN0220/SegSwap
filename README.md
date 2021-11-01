@@ -1,7 +1,7 @@
 # SegSwap
 Pytorch implementation of paper "Learning Co-segmentation by Segment Swapping for Retrieval and Discovery" 
 
-[[PDF]](http://imagine.enpc.fr/~shenx/SegSwap/segswap.pdf) [[Project page]](http://imagine.enpc.fr/~shenx/SegSwap/) 
+[[arXiv]](http://arxiv.org/abs/2110.15904) [[Project page]](http://imagine.enpc.fr/~shenx/SegSwap/) [[Supplementary material]](http://imagine.enpc.fr/~shenx/SegSwap/suppMat.pdf) 
 
 
 <p align="center">
@@ -360,6 +360,7 @@ Part of code is borrowed from our previous projects: [ArtMiner](https://github.c
 ## 6. ChangeLog
 
 * **21/10/21**, model, evaluation + training released
+* **01/11/21**, update arxiv link + supplmentary material
 
 ## 7. License
 
