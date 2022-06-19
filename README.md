@@ -1,7 +1,9 @@
 # SegSwap
 Pytorch implementation of paper "Learning Co-segmentation by Segment Swapping for Retrieval and Discovery" 
+ 
+Present in CVPR 2022 [Image Matching Workshop](https://image-matching-workshop.github.io/) and  [Transformers for Vision Workshop](https://sites.google.com/view/t4v-cvpr22/papers)
 
-[[arXiv]](http://arxiv.org/abs/2110.15904) [[Project page]](http://imagine.enpc.fr/~shenx/SegSwap/) [[Supplementary material]](http://imagine.enpc.fr/~shenx/SegSwap/suppMat.pdf) 
+[[arXiv]](http://arxiv.org/abs/2110.15904) [[Project page]](http://imagine.enpc.fr/~shenx/SegSwap/) [[Supplementary material]](http://imagine.enpc.fr/~shenx/SegSwap/suppMat.pdf) [[Youtube Video]](https://youtu.be/9pKwNGZPDr8)[[Slides]](http://imagine.enpc.fr/~shenx/SegSwap/slides.pdf)
 
 
 <p align="center">
