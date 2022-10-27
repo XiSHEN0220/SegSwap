@@ -28,6 +28,7 @@ If our project is helpful for your research, please consider citing :
 
 
 ## Table of Content
+* [0. Quickstart](#0-quickstart)
 * [1. Installation](#1-installation)
 * [2. Training Data Generation](#2-training-data-generation)
 * [3. Evaluation](#3-evaluation)
@@ -41,7 +42,13 @@ If our project is helpful for your research, please consider citing :
 * [7. License](#7-license)
 
 
+## 0. Quickstart
 
+A quick start guide of how to use our code is available in [demo/demo.ipynb](https://github.com/XiSHEN0220/SegSwap/tree/main/demo/demo.ipynb)
+
+<p align="center">
+<a href="https://github.com/XiSHEN0220/SegSwap/tree/main/demo/demo.ipynb"><img src="https://github.com/XiSHEN0220/SegSwap/tree/main/demo/demo.png" width="400px" alt="notebook"></a>
+</p>
 
 ## 1. Installation
 
