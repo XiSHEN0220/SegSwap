@@ -368,6 +368,7 @@ Part of code is borrowed from our previous projects: [ArtMiner](https://github.c
 
 ## 6. ChangeLog
 
+* **27/10/22**, add a demo
 * **21/10/21**, model, evaluation + training released
 * **01/11/21**, update arxiv link + supplmentary material
 
